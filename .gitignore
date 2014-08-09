@@ -8,5 +8,6 @@ bower_components/
 vendor/
 
 # ビルド後のファイルを無視
+js/out-script.js
 css/*.css
 css/*.map
